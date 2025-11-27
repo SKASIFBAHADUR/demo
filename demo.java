@@ -8,6 +8,9 @@ public class demo {
         String name1="bahadur";
         int out=10;
 
+        System.out.println("name"+name);
+
+
     }
 
 
