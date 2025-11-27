@@ -4,5 +4,11 @@ public class demo {
         System.out.println("printing fig ");
         String name="bahadur";
         System.out.println(name);
+
+        String name1="bahadur";
+        int out=10;
+
     }
+
+
 }
